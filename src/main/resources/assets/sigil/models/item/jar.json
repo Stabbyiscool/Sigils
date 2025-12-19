@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sigil:item/jar"
+  },
+  "overrides": [
+    {
+      "predicate": { "soul": 1.0 },
+      "model": "sigil:item/jar_soul"
+    }
+  ]
+}

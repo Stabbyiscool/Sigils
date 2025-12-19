@@ -1,0 +1,7 @@
+{
+    "type": "explode",
+    "items": {
+        "minecraft:gunpowder": 1
+    },
+    "power": 3.0
+}

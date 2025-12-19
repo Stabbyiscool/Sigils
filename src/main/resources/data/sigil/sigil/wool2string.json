@@ -1,0 +1,9 @@
+{
+    "type": "transmute",
+    "items": {
+        "minecraft:white_wool": 1
+    },
+    "output": {
+        "minecraft:string": 4
+    }
+}

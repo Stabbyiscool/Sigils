@@ -1,0 +1,9 @@
+{
+    "type": "transmute",
+    "items": {
+        "sigil:flesh": 128,
+        "minecraft:stick": 1,
+        "sigil:eyeball": 1
+    },
+    "output": "sigil:bloodlust"
+}

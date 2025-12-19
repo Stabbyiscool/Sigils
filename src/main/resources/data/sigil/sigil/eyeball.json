@@ -1,0 +1,9 @@
+{
+    "type": "transmute",
+    "items": {
+        "minecraft:spider_eye": 1,
+        "minecraft:brown_dye": 1,
+        "sigil:flesh": 1
+    },
+    "output": "sigil:eyeball"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sigil:item/bloodlust_open"
+  },
+  "overrides": [
+    {
+      "predicate": { "sigil:cooldown": 1.0 },
+      "model": "sigil:item/bloodlust_closed"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "type": "transmute",
+    "items": {
+        "minecraft:slime_ball": 1
+    },
+    "output": "minecraft:honey_bottle"
+}

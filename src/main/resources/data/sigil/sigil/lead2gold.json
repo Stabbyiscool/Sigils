@@ -1,0 +1,8 @@
+{
+    "type": "transmute",
+    "items": {
+        "sigil:lead": 1,
+        "minecraft:gold_nugget": 1
+    },
+    "output": "minecraft:gold_ingot"
+}

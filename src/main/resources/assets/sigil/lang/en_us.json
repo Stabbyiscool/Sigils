@@ -1,0 +1,12 @@
+{
+    "block.sigil.chalk": "Chalk",
+    "item.sigil.sugar_cookie": "Sugar Cookie",
+    "item.sigil.lead": "Lead",
+    "item.sigil.flesh": "Flesh",
+    "item.sigil.bloodlust": "Bloodlust",
+    "item.sigil.eyeball": "Eyeball",
+    "itemgroup.sigil": "Sigil",
+    "emi.category.sigil.transmute": "Transmute",
+    "item.sigil.blood_syringe": "Bloody Syringe",
+    "item.sigil.empty_syringe": "Empty Syringe"
+}

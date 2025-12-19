@@ -1,0 +1,7 @@
+{
+    "type": "transmute",
+    "items": {
+        "minecraft:rotten_flesh": 1
+    },
+    "output": "sigil:flesh"
+}

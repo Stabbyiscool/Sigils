@@ -1,0 +1,20 @@
+{
+    "block.chalk.write": {
+        "category": "blocks",
+        "sounds": [
+            {
+                "name": "sigil:write",
+                "stream": false
+            }
+        ]
+    },
+    "item.bloodlust.slash": {
+        "category": "items",
+        "sounds": [
+            {
+                "name": "sigil:bloody_slash",
+                "stream": false
+            }
+        ]
+    }
+}

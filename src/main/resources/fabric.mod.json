@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "sigil",
+	"version": "${version}",
+	"name": "Sigil",
+	"description": "Ultimate Alchemy",
+	"authors": [
+		"Stabosa87"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/sigil/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"fun.stabosa.sigil.Sigil"
+		],
+		"client": [
+			"fun.stabosa.sigil.SigilClient"
+		],
+		"emi": [
+			"fun.stabosa.sigil.emi.SigilEmiPlugin"
+		]
+	},
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

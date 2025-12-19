@@ -1,0 +1,7 @@
+{
+    "type": "transmute",
+    "items": {
+        "minecraft:sugar": 1
+    },
+    "output": "sigil:sugar_cookie"
+}
