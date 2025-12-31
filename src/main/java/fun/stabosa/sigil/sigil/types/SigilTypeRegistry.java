@@ -12,6 +12,7 @@ public class SigilTypeRegistry {
         TYPES.put("transmute", new Transmute());
         TYPES.put("timber", new Timber());
         TYPES.put("potion", new PotionEffect());
+        TYPES.put("command", new Command());
     }
 
     public static SigilType get(String name) {

@@ -113,6 +113,7 @@ public class SigilBlock extends Block {
 
     private void spawnRisingMagic(ServerWorld world, BlockPos pos) {
         Random random = world.getRandom();
+        world.spawnParticles(ParticleTypes.FLASH, pos.getX() + 0.5, pos.getY() + 0.2, pos.getZ() + 0.5, 1, 0, 0, 0, 0);
         for (int i = 0; i < 20; i++) {
             double x = pos.getX() + 0.5 + (random.nextDouble() - 0.5) * 0.5;
             double y = pos.getY() + 0.5;

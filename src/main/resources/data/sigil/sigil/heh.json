@@ -1,0 +1,7 @@
+{
+    "type": "command",
+    "items": {
+        "minecraft:red_wool": 1
+    },
+    "command": "summon item ~ ~ ~ {Item:{id:\"minecraft:leather_chestplate\",Count:1,tag:{display:{color:8388608}}}}"
+}
